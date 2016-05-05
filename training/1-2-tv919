@@ -1,0 +1,1 @@
+setpgrp ioctl setpgrp ioctl ioctl setpgrp ioctl close close close ioctl ioctl close close close close close close close execve open mmap open mmap mmap munmap mmap close open mmap mmap munmap mmap close open mmap mmap munmap mmap mmap close open mmap close open mmap mmap munmap mmap close close munmap open mmap memcntl munmap close close close close exit 

@@ -1,0 +1,1 @@
+setpgrp ioctl setpgrp ioctl ioctl setpgrp ioctl close close close ioctl ioctl execve execve execve close close close close close close close close close exit 

@@ -1,0 +1,1 @@
+old setgid open mmap mmap munmap mmap close munmap open ioctl close setgroups old setuid seteuid sysinfo seteuid chdir access close execve open mmap open open mmap mmap munmap mmap 

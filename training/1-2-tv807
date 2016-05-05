@@ -1,0 +1,1 @@
+open fcntl close close close execve open mmap open mmap mmap munmap mmap close open mmap mmap munmap mmap close open mmap mmap munmap mmap mmap close open mmap close open mmap mmap munmap mmap close close munmap open open open open ioctl close open close ioctl ioctl ioctl open ioctl ioctl ioctl open close close close close close close exit 

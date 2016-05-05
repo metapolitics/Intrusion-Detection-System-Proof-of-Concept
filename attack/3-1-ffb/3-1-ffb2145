@@ -1,0 +1,1 @@
+execve open mmap open mmap mmap munmap mmap mmap close open mmap close open mmap mmap munmap mmap close close munmap open ioctl access chown ioctl access chmod close close close close close exit 

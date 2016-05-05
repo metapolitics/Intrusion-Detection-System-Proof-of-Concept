@@ -1,0 +1,1 @@
+execve open mmap open mmap mmap munmap mmap close open mmap mmap munmap mmap close open mmap mmap munmap mmap mmap close open mmap close open mmap mmap munmap mmap close close munmap setpgrp setpgrp open close close ioctl stat access pipe fork close ioctl close stat access stat access fork ioctl setpgrp ioctl ioctl close close close close exit 
